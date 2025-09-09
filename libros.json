@@ -1,0 +1,32 @@
+[
+    {
+        "titulo": "Nosotros en la Luna",
+        "genero": "Romance",
+        "anio": "2015",
+        "autor": "Alice Kellen"
+    },
+    {
+        "titulo": "Alice Kellen",
+        "genero": "Romance",
+        "anio": "2020",
+        "autor": "Alice Kellen"
+    },
+    {
+        "titulo": "Nosotros en la Luna",
+        "genero": "Romance",
+        "anio": "2020",
+        "autor": "Alice Kellen "
+    },
+    {
+        "titulo": "Cien Desafios",
+        "genero": "Dark Romance",
+        "anio": "2025",
+        "autor": "Natalie Mar"
+    },
+    {
+        "titulo": "Alas de Onix",
+        "genero": "Fantasia Romantica",
+        "anio": "2025",
+        "autor": "Rebecca Yarros"
+    }
+]
